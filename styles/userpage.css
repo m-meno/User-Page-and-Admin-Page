@@ -1,6 +1,6 @@
-body{
-   ;
-}
+/*body{
+   display: flex;
+} */
 
 .profileGrid{
     display: flex;
@@ -23,7 +23,9 @@ body{
 
 }
 
-
+#container1{
+    display: flex;
+}
 
 .col{
     font-size: large;
