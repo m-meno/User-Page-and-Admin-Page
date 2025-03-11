@@ -1,0 +1,33 @@
+main{
+    display: flex;
+}
+
+.circle{
+    float: right;
+}
+
+.container1{
+
+}
+
+p{
+    width:
+    
+
+}
+
+.sidebuttons{
+    width: 8em;
+    margin: 0.5em;
+
+}
+
+#profile{
+    text-align: center;
+}
+
+.graph{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

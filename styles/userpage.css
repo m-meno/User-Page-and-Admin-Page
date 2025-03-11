@@ -1,0 +1,45 @@
+body{
+   ;
+}
+
+.profileGrid{
+    display: flex;
+    text-align: left;
+    align-items: center;
+}
+
+.profile{
+    text-align: center
+}
+
+#linkedin{
+    margin-bottom: 0.5em;
+}
+
+#edit{
+    display: block;
+    font-size: smaller;
+    margin-left: auto;
+
+}
+
+
+
+.col{
+    font-size: large;
+    text-align: left;
+
+}
+
+.col1{
+    font-size: large;
+    font-weight: bolder;
+    text-align: left;
+}
+
+#logo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
